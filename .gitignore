@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/WindowsFormsApp1/att2000.ldb
+/WindowsFormsApp1/att2000.mdb
